@@ -1,4 +1,3 @@
-.env
 .DS_Store
 .venv/
 __pycache__/
@@ -11,3 +10,4 @@ backend/data/uploads/
 
 # local STT benchmarks
 backend/data/bench_*
+config.bat
